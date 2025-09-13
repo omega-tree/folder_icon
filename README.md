@@ -1,7 +1,7 @@
 # Folder Icon App
 
 This App allows you to set replace Windows folder images with icons.
-The application is relocatable. meaining move it from one machine to another the image to icon replacements will remain.
+The folders with custom icons are relocatable. meaining moving any folder from one machine to another will never compromise image icon, folder custom images will remain.
 
 ## Features
 - Set a custom icon for any folder (recursively or single folder)
