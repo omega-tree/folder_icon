@@ -1,0 +1,15 @@
+{
+  "name": "folder-icon",
+  "version": "1.0.0",
+  "description": "Electron app to install/uninstall custom folder icons on Windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "package": "electron-packager . FolderIconApp --platform=win32 --arch=x64 --out=dist"
+  },
+  "devDependencies": {
+    "electron": "^29.4.6",
+    "electron-builder": "^26.0.12"
+  }
+}
